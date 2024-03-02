@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br>My aim is to become a full-stack developer and currently still learning the front-end path<br>My current skills are the fundamental, which are HTML, CSS, and  Javascript<br>Some next skills I want to learn and implement are Vue, Bulma, the and back-end path<br>I'm now working on a portfolio project<br><br>Some facts from me:<br>I'm an English Literature graduate<br>I love writing poems, and occasionally short stories<br>
+Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br>My aim is to become a full-stack developer and currently still learning the front-end path<br>My current skills are the fundamental, which are HTML, CSS, and  Javascript<br>Some next skills I want to learn and implement are Vue, Bulma, the and back-end path<br>I'm now working on a portfolio project<br><br>Fun facts about me:<br>I'm an English Literature graduate<br>I love writing poems, and occasionally short stories<br>
 
   <a href="https://indogithubers.vercel.app/">
     <img src="https://indogithubers-badge.vercel.app/badge?username=taradevio" alt="IndoGitHubers Badge">
