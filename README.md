@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br>My aim is to become a full-stack developer and currently is still learning the front-end path<br>My current skills are the fundamental, which are HTML, CSS, and  Javascript<br>Some next skills I want to learn and implement are Vue, Bulma, and back-end path<br>I'm now working on a portfolio project<br><br>Some facts from me:<br>I'm an English Literature graduate<br>I love writing poems, and occasionally short stories<br>
 
+  <a href="https://indogithubers.vercel.app/">
+    <img src="https://indogithubers-badge.vercel.app/badge?username=taradevio" alt="IndoGitHubers Badge">
+  </a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarayavanets) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tarayavanets) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/taradevio) 
@@ -12,20 +15,7 @@ Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taradevio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taradevio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=taradevio&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=taradevio&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=taradevio&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  <a href="https://indogithubers.vercel.app/">
-    <img src="https://indogithubers-badge.vercel.app/badge?username=taradevio" alt="IndoGitHubers Badge">
-  </a>
