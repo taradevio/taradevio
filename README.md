@@ -20,6 +20,6 @@ Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br
 
 # Current Projects
 ---
-- [Struktly]([https://duckduckgo.com](https://github.com/taradevio/struktly) "Shopping receipt scanner") - A shopping receipt scanner that uses RapidOCR and Ollama
+- [Struktly](https://github.com/taradevio/struktly "Shopping receipt scanner") - A shopping receipt scanner that uses RapidOCR and Ollama
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
