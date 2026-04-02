@@ -21,5 +21,6 @@ Hi folks!<br>I'm Nanda Kresnatara, a self-taught web developer from Indonesia<br
 # Current Projects
 ---
 - [Struktly](https://github.com/taradevio/struktly "Shopping receipt scanner") - A shopping receipt scanner that uses RapidOCR and Ollama
+- [Nutrient Chat]( "") - MCP chatbot for Google Docs with writing assistance and nutrition calculation.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
