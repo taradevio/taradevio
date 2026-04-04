@@ -6,7 +6,7 @@ You can call me Nanda - a Full-Stack AI Engineer. I mostly work with React, Fast
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Hono](https://img.shields.io/badge/hono-black?style=flat)
+![Hono](https://img.shields.io/badge/hono-ff6b00?style=flat)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
