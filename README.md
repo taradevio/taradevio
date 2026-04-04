@@ -11,7 +11,7 @@ You can call me Nanda - a Full-Stack AI Engineer. I mostly work with React, Fast
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
-# Current Projects
+## Current Projects
 
 - [Struktly](https://github.com/taradevio/struktly "Shopping receipt scanner") - Shopping receipt scanner that uses RapidOCR and Ollama
 - Nutrient Chat - MCP chatbot for Google Docs with RAG, writing assistance and nutrition calculation.
