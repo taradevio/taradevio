@@ -1,5 +1,5 @@
 ## こんにちは
-You can call me Nanda - a Full-Stack AI Engineer. I mostly work with React, FastAPI, and Hono. I got into AI from my first work project and just kinda stuck with it. Since then I’ve been building full-stack apps that mix web and AI, trying to make things that are actually useful. Besides, lately, I am also into infra and have been playing around with it and running my own homelab server for deployments
+You can call me Nanda - a Full-Stack AI Engineer. I mostly work with React, FastAPI, and Hono. I got into AI from my first work project and just kinda stuck with it. Since then I’ve been building full-stack apps that mix web and AI, trying to make things that are actually useful. Besides, I am also into infra and have been playing around with it and running my own homelab server for deployments
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
